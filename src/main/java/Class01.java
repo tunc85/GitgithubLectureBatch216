@@ -20,10 +20,6 @@ public class Class01 {
 
         System.out.println("Versiyon 3 kodlari.");
 
-        //Versiyon 4 icin kodlar.
-
-        System.out.println("edit");
-
 
 
 
