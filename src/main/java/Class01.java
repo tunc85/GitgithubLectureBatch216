@@ -10,6 +10,12 @@ public class Class01 {
         System.out.println(x+y);
         System.out.println("Versiyon 1 tamamlandi.");
 
+        //Versiyon 2 icin kodlar.
+
+        int z = 5;
+        System.out.println(x+y+z);
+        System.out.println("Versiyon 2 tamamlandi.");
+
 
 
 
